@@ -81,6 +81,10 @@ Newsletter.send_newsletter(
 
 ## Source
 
+### Solved by
+
+- @gerald-annan
+
 ### Created by
 
 - @angelikatyborska
