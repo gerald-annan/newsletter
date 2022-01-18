@@ -14,6 +14,7 @@ defmodule Newsletter do
   end
 
   def close_log(pid) do
+    File.close(pid)
   end
 
   def send_newsletter(emails_path, log_path, send_fun) do
